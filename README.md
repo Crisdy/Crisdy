@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Crisdy
+    - Olá me chamo Crisdy -
+
+
 - 👀 I’m interested in  conhecimentos Java
 - 🌱 I’m currently learning  Java do Zero
 - 💞️ I’m looking to collaborate on  grandes empresas
